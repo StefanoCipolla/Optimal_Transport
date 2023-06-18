@@ -1,1 +1,2 @@
-# Optimal_Transport
+# Optimal Transport On Graphs.
+Please cite
